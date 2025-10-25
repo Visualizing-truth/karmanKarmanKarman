@@ -1,10 +1,11 @@
 [build]
-  command = "bun run build"
+  command = "bun install && bun run build"
   publish = "dist"
 
 [build.environment]
   NODE_VERSION = "18"
   BUN_VERSION = "latest"
+  NPM_FLAGS = "--version"
 
 [[redirects]]
   from = "/*"
