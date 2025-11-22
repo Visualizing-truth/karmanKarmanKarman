@@ -29,10 +29,14 @@ Air pollution 1 year ago: [Reddit: China effectively tackling Air pollution, whi
 
 
 
-Air pollution 2 years ago (Kolkata?):
+### Air pollution 2 years ago (Kolkata?):
 
 [Reddit: India needs to address deteriorating air pollution](https://www.reddit.com/r/india/comments/1aixqzd/india_needs_to_address_the_deteriorating_air/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
-Air pollution 8 years ago, 2017: 
+### Air pollution 8 years ago, 2017: 
 
 [Youtube(NDTV): 5 Lakh Deaths In 2015: Is India Losing The Battle Against Pollution?](https://youtu.be/cYrN9PZU4pY?si=49PWeqHAhgPyB_Sr)
+
+### Air pollution 12 years ago, Sep 2 2013:
+
+[Times of India: Indians have 30% weaker lungs than Europeans](https://timesofindia.indiatimes.com/home/science/Indians-have-30-weaker-lungs-than-Europeans-Study/articleshow/22217540.cms)
