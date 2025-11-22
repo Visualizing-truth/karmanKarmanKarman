@@ -8,7 +8,7 @@ draft: false
 tags:
   - Home
 
-description: Title says all.
+description: title
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
 
