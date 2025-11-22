@@ -17,24 +17,24 @@ canonicalURL: https://example.org/my-article-was-already-posted-here
 
 ## Pollution in Amritsar: 
 
-1. [Reddit: AQI condition worsening in Amritsar](https://www.reddit.com/r/amritsar/comments/1p3jttp/aqi_condition_is_worsening/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [Reddit: AQI condition worsening in Amritsar](https://www.reddit.com/r/amritsar/comments/1p3jttp/aqi_condition_is_worsening/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## Pollution protests in Delhi:
 
 ![Gas Mask](../smog-images/GasMask.png)
 
-1. [Reddit: They are detaining people](https://www.reddit.com/r/delhi/comments/1osjg99/theyre_detaining_people/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [Reddit: Let's create a human chain against politicians and Bureauchrats, fellow Indians](https://www.reddit.com/r/CleanAirForDelhi/comments/1p3fz8r/lets_create_a_human_chain_against_politicians_and/)
 
-2. [Reddit: Join us at Jantar Mantar, Nov 8 2025](https://www.reddit.com/r/delhi/comments/1oo89r0/join_us_on_6th_november_at_jantar_mantar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [Reddit: They are detaining people](https://www.reddit.com/r/delhi/comments/1osjg99/theyre_detaining_people/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+- [Reddit: Join us at Jantar Mantar, Nov 8 2025](https://www.reddit.com/r/delhi/comments/1oo89r0/join_us_on_6th_november_at_jantar_mantar/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## Pollution in India has been persisting from longer than you may think
 
 ![India Gate](../smog-images/IndiaGate.png)
 
 ### Air pollution 1 year ago
-Air pollution 1 year ago: [Reddit: China effectively tackling Air pollution, while India continues to choke](https://www.reddit.com/r/india/comments/1gurstd/china_effectively_tackling_air_pollution_while/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-
-
+[Reddit: China effectively tackling Air pollution, while India continues to choke](https://www.reddit.com/r/india/comments/1gurstd/china_effectively_tackling_air_pollution_while/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ### Air pollution 2 years ago (Kolkata?):
 
