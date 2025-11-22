@@ -20,7 +20,6 @@ canonicalURL: https://example.org/my-article-was-already-posted-here
 1. [Reddit: AQI condition worsening in Amritsar](https://www.reddit.com/r/amritsar/comments/1p3jttp/aqi_condition_is_worsening/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## Pollution protests in Delhi:
-![Person wearing Gas Mask](./smog-images/GasMask.png)
 
 
 1. [Reddit: They are detaining people](https://www.reddit.com/r/delhi/comments/1osjg99/theyre_detaining_people/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
