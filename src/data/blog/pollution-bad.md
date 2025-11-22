@@ -12,7 +12,7 @@ description: Title says all.
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
 
-![Taj Mahal](./smog-images/TajMahal.png)
+![Taj Mahal](../smog-images/TajMahal.png)
 
 
 ## Pollution in Amritsar: 
@@ -28,7 +28,7 @@ canonicalURL: https://example.org/my-article-was-already-posted-here
 
 ## Pollution in India has been persisting from longer than you may think
 
-![India Gate](./smog-images/IndiaGate.png)
+![India Gate](../smog-images/IndiaGate.png)
 
 ### Air pollution 1 year ago
 Air pollution 1 year ago: [Reddit: China effectively tackling Air pollution, while India continues to choke](https://www.reddit.com/r/india/comments/1gurstd/china_effectively_tackling_air_pollution_while/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
