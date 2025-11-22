@@ -21,6 +21,7 @@ canonicalURL: https://example.org/my-article-was-already-posted-here
 
 ## Pollution protests in Delhi:
 
+![Gas Mask](../smog-images/GasMask.png)
 
 1. [Reddit: They are detaining people](https://www.reddit.com/r/delhi/comments/1osjg99/theyre_detaining_people/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
